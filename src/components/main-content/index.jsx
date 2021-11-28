@@ -12,9 +12,16 @@ export function MainContent() {
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
 
+  const options = {
+    method: `get`, 
+    headers: {
+      origin: `x-requested-with`
+    }
+  }
+  
   useEffect(() => {
     setLoading(true);
-    fetch(`https://cors-anywhere.herokuapp.com/http://homologacao3.azapfy.com.br/api/ps/metahumans`)
+    fetch(`https://cors-anywhere.herokuapp.com/http://homologacao3.azapfy.com.br/api/ps/metahumans`, options)
       .then((response) => response.json())
       .then((response) => {
         setData(response);
