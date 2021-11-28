@@ -14,7 +14,7 @@ export function MainContent() {
 
   useEffect(() => {
     setLoading(true);
-    fetch(`http://homologacao3.azapfy.com.br/api/ps/metahumans`)
+    fetch(`https://cors-anywhere.herokuapp.com/http://homologacao3.azapfy.com.br/api/ps/metahumans`)
       .then((response) => response.json())
       .then((response) => {
         setData(response);
