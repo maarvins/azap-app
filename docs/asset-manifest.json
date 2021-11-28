@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/azap-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/azap-app/static/js/main.9577b3e5.chunk.js",
-    "main.js.map": "/azap-app/static/js/main.9577b3e5.chunk.js.map",
+    "main.js": "/azap-app/static/js/main.f9fb85b6.chunk.js",
+    "main.js.map": "/azap-app/static/js/main.f9fb85b6.chunk.js.map",
     "runtime-main.js": "/azap-app/static/js/runtime-main.2a10ce9e.js",
     "runtime-main.js.map": "/azap-app/static/js/runtime-main.2a10ce9e.js.map",
     "static/js/2.d55166d4.chunk.js": "/azap-app/static/js/2.d55166d4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2a10ce9e.js",
     "static/js/2.d55166d4.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.9577b3e5.chunk.js"
+    "static/js/main.f9fb85b6.chunk.js"
   ]
 }
