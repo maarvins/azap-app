@@ -1,3 +1,4 @@
+
 <h1 align="center">
     <img alt="Azap SuperHeros" src="https://www.azapfy.com.br/wp-content/uploads/2020/08/NOVA-LOGO-AZAPFY_03.png" width="160px">
 </h1>
@@ -22,6 +23,18 @@
 <p align="center">
   <img alt="first view" src="src/assets/print-app.png">
 </p>
+
+                                                                        
+*******************************************************************************************************************************************************************************
+                                                                                        
+                                                       ### 🎲 Rodando o Back End (servidor)
+
+-> Devido a hospedagem da API, utilizada no projeto , ser realizada sem SSL (certificado de autenticação em um website / http) foi necessário a utilização do recurso da hospedagem do projeto em um servidor temporário. Para que se consiga acessasr ao link gerado pelo GITHUB PAGES é necessário realizar o seguinte passo a passo: 
+
+• Desativar o CORS através do seguinte link: http://cors-anywhere.herokuapp.com/corsdemo </br>
+• Acessar o site através da url a seguir: https://maarvins.github.io/azap-app/
+
+*******************************************************************************************************************************************************************************
 
 ## 🧪 Technologies
 
